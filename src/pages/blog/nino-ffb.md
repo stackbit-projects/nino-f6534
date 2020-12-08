@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Dit is mijn pagina
 subtitle: lorem-ipsum
 date: '2020-12-08'
 categories: []
