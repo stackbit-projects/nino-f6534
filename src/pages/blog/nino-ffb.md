@@ -7,6 +7,7 @@ tags: []
 excerpt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-ek0mw51an.json
 ---
 ## Lorem ipsum
 
