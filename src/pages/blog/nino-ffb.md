@@ -1,6 +1,6 @@
 ---
 title: Dit is mijn pagina
-subtitle: lorem-ipsum
+subtitle: Subtitel komt hier
 date: '2020-12-08'
 categories: []
 tags: []
